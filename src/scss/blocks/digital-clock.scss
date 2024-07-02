@@ -1,0 +1,12 @@
+.digital-clock {
+  text-align: center;
+
+  &__time {
+    font-size: 128px;
+    font-weight: 900;
+  }
+
+  &__date {
+    font-size: 32px;
+  }
+}

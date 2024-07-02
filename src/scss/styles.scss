@@ -3,5 +3,8 @@
 @use 'config/variables.scss';
 @use 'blocks/body.scss';
 @use 'blocks/main.scss';
+@use 'blocks/clocks-container.scss';
+@use 'blocks/digital-clock.scss';
+@use 'blocks/analog-clock.scss';
 @use 'blocks/titles.scss';
 @use 'blocks/texts.scss';
